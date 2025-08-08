@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+tmp/
+temp/
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+*.lcov
+
+# Env files
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.swp
+*.tmp
+*.bak
+*.tgz
